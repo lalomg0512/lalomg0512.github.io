@@ -1,4 +1,4 @@
-name: CI Angular app through GitHub Actions
+name: Develop CI_CD
 on: 
   push:
     branches: [ "develop"]
